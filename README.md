@@ -1,6 +1,6 @@
 ## ¡Hola, gente de Github! 👋
 
-- 🔭 **Estoy actualmente trabajando en** un proyecto personal de creación de contenido y págnas web junto a [Argar-Crespo](https://github.com/Argar-Crespo/Argar-Crespo) más info PV.
+- 🔭 **Estoy actualmente trabajando en** un proyecto personal de creación de contenido y págnas web junto a [Argar-Crespo](https://github.com/Argar-Crespo) más info PV.
 - 🌱 **Estoy aprendiendo** sobre inteligencia artificial y lenguajes de programación.
 - 👯 **Busco colaborar en** apps y software (de momento estoy aprendiendo).
 - 🤔 **Busco ayuda con** programación, sobre todo.
